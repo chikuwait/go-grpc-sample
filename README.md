@@ -1,2 +1,5 @@
 # go-grpc-sample
-Ref:https://dev.classmethod.jp/articles/golang-grpc-sample-project/
+Ref:
+https://grpc.io/docs/languages/go/basics/
+https://dev.classmethod.jp/articles/golang-grpc-sample-project/
+
